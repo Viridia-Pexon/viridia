@@ -6,9 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Thanks for reporting an issue!** Please make sure you read our **ToDo:** [issue guidelines](https://github.com/theos/theos/blob/master/.github/CONTRIBUTING.md) first, then fill out the fields below.
+        **Thanks for reporting an issue!** Please make sure you read our **ToDo:** [issue guidelines](https://github.com/Viridia-Pexon/viridia/blob/master/.github/CONTRIBUTING.md) first, then fill out the fields below.
 
-        If you’re unsure whether the issue you’re having is a bug, or if is known already, you can post in **ToDo:** [Discussions](https://github.com/theos/theos/discussions) instead.
+        If you’re unsure whether the issue you’re having is a bug, or if is known already, you can post in **ToDo:** [Discussions](https://github.com/Viridia-Pexon/viridia/discussions) instead.
 
   - type: textarea
     id: bug-description
@@ -58,7 +58,7 @@ body:
       value: |
         ----
         
-        # Details of your host machine (the device you’re running Theos on)
+        # Details of your host machine (the device you’re running viridia on)
 
   - type: dropdown
     id: host-os
