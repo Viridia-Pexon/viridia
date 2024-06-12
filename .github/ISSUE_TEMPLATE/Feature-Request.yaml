@@ -1,0 +1,39 @@
+# https://github.com/babel/babel/blob/main/.github/ISSUE_TEMPLATE/feature_request.yml
+name: "🚀 Feature Request"
+description: "I want this feature for Viridia!"
+labels: ["new", "type: feature request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thanks for taking the time to suggest a new feature!** Please make sure you read our **ToDo:** [issue guidelines](https://github.com/Viridia-Pexon/viridia/blob/master/.github/CONTRIBUTING.md) first, then fill out the fields below.
+
+        If you want to discuss the request beforehand, please use **ToDo:** [Discussions](https://github.com/Viridia-Pexon/viridia/discussions) instead.
+
+  - type: textarea
+    attributes:
+      label: "Situation: What is the current situation you want to enhance?"
+      description: A concise description of what the problem is.
+      placeholder: "e.g. Currently we do XYZ …"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Task: What is the general task?"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Action: List step-by-step todos or actions on how to do the task"
+      description: |
+        * Analyze possible ways to solve the task
+        * Implement the new feature
+        * ...
+
+  - type: textarea
+    attributes:
+      label: "Result: What is the desired output/goal, you want to reach?"
+      description: |
+        Describe the result you want to reach. How can the feature request ideally help better viridia.
