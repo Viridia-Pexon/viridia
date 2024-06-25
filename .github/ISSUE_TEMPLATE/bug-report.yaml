@@ -8,7 +8,7 @@ body:
       value: |
         **Thanks for reporting an issue!** Please make sure you read our **ToDo:** [issue guidelines](https://github.com/Viridia-Pexon/viridia/blob/master/.github/CONTRIBUTING.md) first, then fill out the fields below.
 
-        If you’re unsure whether the issue you’re having is a bug, or if is known already, you can post in **ToDo:** [Discussions](https://github.com/Viridia-Pexon/viridia/discussions) instead.
+        If you’re unsure whether the issue you’re having is a bug, or if is known already, you can check and/or post in [Discussions](https://github.com/Viridia-Pexon/viridia/discussions) instead.
 
   - type: textarea
     id: bug-description
